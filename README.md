@@ -1,6 +1,8 @@
-# Assignment1_FlutterQuizApp
+# Flutter Quiz Application
 
 A new Flutter project.
+
+A quiz app with 10 questions hardcoded in the code, 5 random question appear every time you start a new game.<br/> If your score is 2 or less, you will be given the chance to replay.
 
 ## Getting Started
 
