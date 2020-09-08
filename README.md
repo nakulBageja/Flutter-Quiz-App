@@ -6,7 +6,7 @@ A quiz app with 10 questions hardcoded in the code, 5 random question appear eve
 
 ## In order to run the application:
 
--Install Visual Studio Code (https://code.visualstudio.com/download)
+- Install Visual Studio Code (https://code.visualstudio.com/download)
 -	Install flutter on your computer/desktop (Reference : https://flutter.dev/docs/get-started/install) 
 -	Follow the above link for all the steps.
 -	After installation is done, run "flutter doctor" in command prompt to check if flutter is working properly.
